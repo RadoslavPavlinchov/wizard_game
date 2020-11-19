@@ -1,0 +1,272 @@
+{
+	"frames": {
+		"FW_Hero_1_Jumping__000.png": {
+			"frame": {
+				"x": 0,
+				"y": 0,
+				"w": 128,
+				"h": 276
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 128,
+				"h": 276
+			},
+			"sourceSize": {
+				"w": 128,
+				"h": 276
+			}
+		},
+		"FW_Hero_1_Jumping__001.png": {
+			"frame": {
+				"x": 128,
+				"y": 0,
+				"w": 128,
+				"h": 276
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 128,
+				"h": 276
+			},
+			"sourceSize": {
+				"w": 128,
+				"h": 276
+			}
+		},
+		"FW_Hero_1_Jumping__002.png": {
+			"frame": {
+				"x": 0,
+				"y": 552,
+				"w": 128,
+				"h": 276
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 128,
+				"h": 276
+			},
+			"sourceSize": {
+				"w": 128,
+				"h": 276
+			}
+		},
+		"FW_Hero_1_Jumping__003.png": {
+			"frame": {
+				"x": 128,
+				"y": 552,
+				"w": 128,
+				"h": 276
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 128,
+				"h": 276
+			},
+			"sourceSize": {
+				"w": 128,
+				"h": 276
+			}
+		},
+		"FW_Hero_1_Jumping__004.png": {
+			"frame": {
+				"x": 0,
+				"y": 828,
+				"w": 128,
+				"h": 276
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 128,
+				"h": 276
+			},
+			"sourceSize": {
+				"w": 128,
+				"h": 276
+			}
+		},
+		"FW_Hero_1_Jumping__005.png": {
+			"frame": {
+				"x": 128,
+				"y": 828,
+				"w": 128,
+				"h": 276
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 128,
+				"h": 276
+			},
+			"sourceSize": {
+				"w": 128,
+				"h": 276
+			}
+		},
+		"FW_Hero_1_Jumping__006.png": {
+			"frame": {
+				"x": 0,
+				"y": 1104,
+				"w": 128,
+				"h": 276
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 128,
+				"h": 276
+			},
+			"sourceSize": {
+				"w": 128,
+				"h": 276
+			}
+		},
+		"FW_Hero_1_Jumping__007.png": {
+			"frame": {
+				"x": 128,
+				"y": 1104,
+				"w": 128,
+				"h": 276
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 128,
+				"h": 276
+			},
+			"sourceSize": {
+				"w": 128,
+				"h": 276
+			}
+		},
+		"FW_Hero_1_Jumping__008.png": {
+			"frame": {
+				"x": 0,
+				"y": 1380,
+				"w": 128,
+				"h": 276
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 128,
+				"h": 276
+			},
+			"sourceSize": {
+				"w": 128,
+				"h": 276
+			}
+		},
+		"FW_Hero_1_Jumping__009.png": {
+			"frame": {
+				"x": 128,
+				"y": 1380,
+				"w": 128,
+				"h": 276
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 128,
+				"h": 276
+			},
+			"sourceSize": {
+				"w": 128,
+				"h": 276
+			}
+		},
+		"FW_Hero_1_Jumping__010.png": {
+			"frame": {
+				"x": 0,
+				"y": 1656,
+				"w": 128,
+				"h": 276
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 128,
+				"h": 276
+			},
+			"sourceSize": {
+				"w": 128,
+				"h": 276
+			}
+		},
+		"FW_Hero_1_Jumping__011.png": {
+			"frame": {
+				"x": 128,
+				"y": 1656,
+				"w": 128,
+				"h": 276
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 128,
+				"h": 276
+			},
+			"sourceSize": {
+				"w": 128,
+				"h": 276
+			}
+		}
+	},
+	"animations": {
+		"FW_Hero_1_Jumping_": [
+			"FW_Hero_1_Jumping__000.png",
+			"FW_Hero_1_Jumping__001.png",
+			"FW_Hero_1_Jumping__002.png",
+			"FW_Hero_1_Jumping__003.png",
+			"FW_Hero_1_Jumping__004.png",
+			"FW_Hero_1_Jumping__005.png",
+			"FW_Hero_1_Jumping__006.png",
+			"FW_Hero_1_Jumping__007.png",
+			"FW_Hero_1_Jumping__008.png",
+			"FW_Hero_1_Jumping__009.png",
+			"FW_Hero_1_Jumping__010.png",
+			"FW_Hero_1_Jumping__011.png"
+		]
+	},
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "1.0",
+		"image": "jump.png",
+		"format": "RGBA8888",
+		"size": {
+			"w": 256,
+			"h": 1932
+		},
+		"scale": "1",
+		"smartupdate": "$TexturePacker:SmartUpdate:4218ba7fbff94d25a2bad6b9ba384592:af34380b922b6824bdd2499ff6ceb042:56c9fa24931e40777fe0ddacfe328adf$"
+	}
+}

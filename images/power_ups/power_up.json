@@ -1,0 +1,120 @@
+{"frames": {
+
+"Blue_Potion.png":
+{
+	"frame": {"x":263,"y":173,"w":180,"h":210},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":180,"h":210},
+	"sourceSize": {"w":180,"h":210}
+},
+"Chest.png":
+{
+	"frame": {"x":185,"y":0,"w":263,"h":173},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":263,"h":173},
+	"sourceSize": {"w":263,"h":173}
+},
+"Chest_01.png":
+{
+	"frame": {"x":448,"y":0,"w":263,"h":173},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":263,"h":173},
+	"sourceSize": {"w":263,"h":173}
+},
+"Chest_02.png":
+{
+	"frame": {"x":0,"y":173,"w":263,"h":173},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":263,"h":173},
+	"sourceSize": {"w":263,"h":173}
+},
+"Coins_00.png":
+{
+	"frame": {"x":223,"y":425,"w":279,"h":279},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":279,"h":279},
+	"sourceSize": {"w":279,"h":279}
+},
+"Coins_01.png":
+{
+	"frame": {"x":502,"y":425,"w":279,"h":279},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":279,"h":279},
+	"sourceSize": {"w":279,"h":279}
+},
+"Coins_02.png":
+{
+	"frame": {"x":0,"y":704,"w":279,"h":279},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":279,"h":279},
+	"sourceSize": {"w":279,"h":279}
+},
+"Coins_03.png":
+{
+	"frame": {"x":279,"y":704,"w":279,"h":279},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":279,"h":279},
+	"sourceSize": {"w":279,"h":279}
+},
+"Heart.png":
+{
+	"frame": {"x":0,"y":0,"w":185,"h":142},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":185,"h":142},
+	"sourceSize": {"w":185,"h":142}
+},
+"Key.png":
+{
+	"frame": {"x":558,"y":704,"w":237,"h":301},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":237,"h":301},
+	"sourceSize": {"w":237,"h":301}
+},
+"Red_Potion.png":
+{
+	"frame": {"x":443,"y":173,"w":180,"h":210},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":180,"h":210},
+	"sourceSize": {"w":180,"h":210}
+},
+"Shield.png":
+{
+	"frame": {"x":0,"y":425,"w":223,"h":264},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":223,"h":264},
+	"sourceSize": {"w":223,"h":264}
+},
+"Tombstone.png":
+{
+	"frame": {"x":623,"y":173,"w":226,"h":252},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":226,"h":252},
+	"sourceSize": {"w":226,"h":252}
+}},
+"animations": {
+	"Chest": ["Chest_01.png","Chest_02.png"],
+	"Coins": ["Coins_00.png","Coins_01.png","Coins_02.png","Coins_03.png"]
+},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "power_up.png",
+	"format": "RGBA8888",
+	"size": {"w":849,"h":1005},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:e9d23ca8ac51f52acae89fe12743a015:a3e30397749afe9928ff603aecffa519:840375a9e15bef981b3a5b3d46beb890$"
+}
+}

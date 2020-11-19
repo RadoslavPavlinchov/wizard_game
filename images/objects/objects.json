@@ -1,0 +1,246 @@
+{
+	"frames": {
+		"Barrel.png": {
+			"frame": {
+				"x": 615,
+				"y": 0,
+				"w": 104,
+				"h": 118
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 104,
+				"h": 118
+			},
+			"sourceSize": {
+				"w": 104,
+				"h": 118
+			}
+		},
+		"Bush.png": {
+			"frame": {
+				"x": 343,
+				"y": 0,
+				"w": 181,
+				"h": 106
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 181,
+				"h": 106
+			},
+			"sourceSize": {
+				"w": 181,
+				"h": 106
+			}
+		},
+		"Bush_2.png": {
+			"frame": {
+				"x": 524,
+				"y": 0,
+				"w": 91,
+				"h": 117
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 91,
+				"h": 117
+			},
+			"sourceSize": {
+				"w": 91,
+				"h": 117
+			}
+		},
+		"Crate.png": {
+			"frame": {
+				"x": 107,
+				"y": 0,
+				"w": 99,
+				"h": 99
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 99,
+				"h": 99
+			},
+			"sourceSize": {
+				"w": 99,
+				"h": 99
+			}
+		},
+		"Sign_1.png": {
+			"frame": {
+				"x": 719,
+				"y": 0,
+				"w": 100,
+				"h": 132
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 100,
+				"h": 132
+			},
+			"sourceSize": {
+				"w": 100,
+				"h": 132
+			}
+		},
+		"Sign_2.png": {
+			"frame": {
+				"x": 0,
+				"y": 0,
+				"w": 107,
+				"h": 73
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 107,
+				"h": 73
+			},
+			"sourceSize": {
+				"w": 107,
+				"h": 73
+			}
+		},
+		"Spikes.png": {
+			"frame": {
+				"x": 819,
+				"y": 0,
+				"w": 128,
+				"h": 139
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 128,
+				"h": 139
+			},
+			"sourceSize": {
+				"w": 128,
+				"h": 139
+			}
+		},
+		"Trash_Can.png": {
+			"frame": {
+				"x": 0,
+				"y": 139,
+				"w": 102,
+				"h": 150
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 102,
+				"h": 150
+			},
+			"sourceSize": {
+				"w": 102,
+				"h": 150
+			}
+		},
+		"Tree_1.png": {
+			"frame": {
+				"x": 102,
+				"y": 139,
+				"w": 474,
+				"h": 502
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 474,
+				"h": 502
+			},
+			"sourceSize": {
+				"w": 474,
+				"h": 502
+			}
+		},
+		"Tree_2.png": {
+			"frame": {
+				"x": 576,
+				"y": 139,
+				"w": 371,
+				"h": 550
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 371,
+				"h": 550
+			},
+			"sourceSize": {
+				"w": 371,
+				"h": 550
+			}
+		},
+		"Tree_Stump.png": {
+			"frame": {
+				"x": 206,
+				"y": 0,
+				"w": 137,
+				"h": 104
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 137,
+				"h": 104
+			},
+			"sourceSize": {
+				"w": 137,
+				"h": 104
+			}
+		}
+	},
+	"animations": {
+		"Sign": [
+			"Sign_1.png",
+			"Sign_2.png"
+		],
+		"Tree": [
+			"Tree_1.png",
+			"Tree_2.png"
+		]
+	},
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "1.0",
+		"image": "objects.png",
+		"format": "RGBA8888",
+		"size": {
+			"w": 947,
+			"h": 689
+		},
+		"scale": "1",
+		"smartupdate": "$TexturePacker:SmartUpdate:b2b65dfce07e40e8326f082c8e3ec5de:d78a47fe8e177b37611167d4273ab22a:8d6d12ff4d5234f2a4b19e0a906dbf52$"
+	}
+}

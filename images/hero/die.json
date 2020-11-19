@@ -1,0 +1,143 @@
+{"frames": {
+
+"FW_Hero_1_Die__000.png":
+{
+	"frame": {"x":0,"y":0,"w":345,"h":260},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":345,"h":260},
+	"sourceSize": {"w":345,"h":260}
+},
+"FW_Hero_1_Die__001.png":
+{
+	"frame": {"x":345,"y":0,"w":345,"h":260},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":345,"h":260},
+	"sourceSize": {"w":345,"h":260}
+},
+"FW_Hero_1_Die__002.png":
+{
+	"frame": {"x":690,"y":0,"w":345,"h":260},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":345,"h":260},
+	"sourceSize": {"w":345,"h":260}
+},
+"FW_Hero_1_Die__003.png":
+{
+	"frame": {"x":1035,"y":0,"w":345,"h":260},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":345,"h":260},
+	"sourceSize": {"w":345,"h":260}
+},
+"FW_Hero_1_Die__004.png":
+{
+	"frame": {"x":0,"y":260,"w":345,"h":260},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":345,"h":260},
+	"sourceSize": {"w":345,"h":260}
+},
+"FW_Hero_1_Die__005.png":
+{
+	"frame": {"x":345,"y":260,"w":345,"h":260},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":345,"h":260},
+	"sourceSize": {"w":345,"h":260}
+},
+"FW_Hero_1_Die__006.png":
+{
+	"frame": {"x":690,"y":260,"w":345,"h":260},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":345,"h":260},
+	"sourceSize": {"w":345,"h":260}
+},
+"FW_Hero_1_Die__007.png":
+{
+	"frame": {"x":1035,"y":260,"w":345,"h":260},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":345,"h":260},
+	"sourceSize": {"w":345,"h":260}
+},
+"FW_Hero_1_Die__008.png":
+{
+	"frame": {"x":0,"y":520,"w":345,"h":260},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":345,"h":260},
+	"sourceSize": {"w":345,"h":260}
+},
+"FW_Hero_1_Die__009.png":
+{
+	"frame": {"x":345,"y":520,"w":345,"h":260},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":345,"h":260},
+	"sourceSize": {"w":345,"h":260}
+},
+"FW_Hero_1_Die__010.png":
+{
+	"frame": {"x":690,"y":520,"w":345,"h":260},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":345,"h":260},
+	"sourceSize": {"w":345,"h":260}
+},
+"FW_Hero_1_Die__011.png":
+{
+	"frame": {"x":1035,"y":520,"w":345,"h":260},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":345,"h":260},
+	"sourceSize": {"w":345,"h":260}
+},
+"FW_Hero_1_Die__012.png":
+{
+	"frame": {"x":0,"y":780,"w":345,"h":260},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":345,"h":260},
+	"sourceSize": {"w":345,"h":260}
+},
+"FW_Hero_1_Die__013.png":
+{
+	"frame": {"x":345,"y":780,"w":345,"h":260},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":345,"h":260},
+	"sourceSize": {"w":345,"h":260}
+},
+"FW_Hero_1_Die__014.png":
+{
+	"frame": {"x":690,"y":780,"w":345,"h":260},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":345,"h":260},
+	"sourceSize": {"w":345,"h":260}
+},
+"FW_Hero_1_Die__015.png":
+{
+	"frame": {"x":1035,"y":780,"w":345,"h":260},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":345,"h":260},
+	"sourceSize": {"w":345,"h":260}
+}},
+"animations": {
+	"FW_Hero_1_Die_": ["FW_Hero_1_Die__000.png","FW_Hero_1_Die__001.png","FW_Hero_1_Die__002.png","FW_Hero_1_Die__003.png","FW_Hero_1_Die__004.png","FW_Hero_1_Die__005.png","FW_Hero_1_Die__006.png","FW_Hero_1_Die__007.png","FW_Hero_1_Die__008.png","FW_Hero_1_Die__009.png","FW_Hero_1_Die__010.png","FW_Hero_1_Die__011.png","FW_Hero_1_Die__012.png","FW_Hero_1_Die__013.png","FW_Hero_1_Die__014.png","FW_Hero_1_Die__015.png"]
+},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "die.png",
+	"format": "RGBA8888",
+	"size": {"w":1380,"h":1040},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:abc46f218b8e03d21a65089d6913428d:a897c1878cbecdce4f9fcc3e7c2065b2:0dd90663f1862a26d2090c86a03da2aa$"
+}
+}

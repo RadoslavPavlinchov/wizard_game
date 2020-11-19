@@ -1,0 +1,87 @@
+{"frames": {
+
+"FW_Hero_1_Attack__000.png":
+{
+	"frame": {"x":0,"y":0,"w":180,"h":207},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":180,"h":207},
+	"sourceSize": {"w":180,"h":207}
+},
+"FW_Hero_1_Attack__001.png":
+{
+	"frame": {"x":180,"y":0,"w":180,"h":207},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":180,"h":207},
+	"sourceSize": {"w":180,"h":207}
+},
+"FW_Hero_1_Attack__002.png":
+{
+	"frame": {"x":360,"y":0,"w":180,"h":207},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":180,"h":207},
+	"sourceSize": {"w":180,"h":207}
+},
+"FW_Hero_1_Attack__003.png":
+{
+	"frame": {"x":540,"y":0,"w":180,"h":207},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":180,"h":207},
+	"sourceSize": {"w":180,"h":207}
+},
+"FW_Hero_1_Attack__004.png":
+{
+	"frame": {"x":720,"y":0,"w":180,"h":207},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":180,"h":207},
+	"sourceSize": {"w":180,"h":207}
+},
+"FW_Hero_1_Attack__005.png":
+{
+	"frame": {"x":900,"y":0,"w":180,"h":207},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":180,"h":207},
+	"sourceSize": {"w":180,"h":207}
+},
+"FW_Hero_1_Attack__006.png":
+{
+	"frame": {"x":1080,"y":0,"w":180,"h":207},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":180,"h":207},
+	"sourceSize": {"w":180,"h":207}
+},
+"FW_Hero_1_Attack__007.png":
+{
+	"frame": {"x":1260,"y":0,"w":180,"h":207},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":180,"h":207},
+	"sourceSize": {"w":180,"h":207}
+},
+"FW_Hero_1_Attack__008.png":
+{
+	"frame": {"x":1440,"y":0,"w":180,"h":207},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":180,"h":207},
+	"sourceSize": {"w":180,"h":207}
+}},
+"animations": {
+	"FW_Hero_1_Attack_": ["FW_Hero_1_Attack__000.png","FW_Hero_1_Attack__001.png","FW_Hero_1_Attack__002.png","FW_Hero_1_Attack__003.png","FW_Hero_1_Attack__004.png","FW_Hero_1_Attack__005.png","FW_Hero_1_Attack__006.png","FW_Hero_1_Attack__007.png","FW_Hero_1_Attack__008.png"]
+},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "attack.png",
+	"format": "RGBA8888",
+	"size": {"w":1620,"h":207},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:0e069eebfc9a942a70cbff1f07e350a3:234a4457283181487c6a5df9ed2aa531:c558c2d9773adf0f4ef6f0e9687f205f$"
+}
+}
